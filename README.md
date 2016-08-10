@@ -10,4 +10,8 @@
 
 
 
+#### *References* : 
 
+http://codepen.io/fungxu/pen/pJaqgO
+
+https://www.browsersync.io/docs/gulp
