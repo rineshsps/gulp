@@ -1,6 +1,6 @@
 # Gulp File - Brower-sync
 
-###Steps 
+####Steps for config 
 
 1. Add package.js
 2. First create gulpfile.js > replace the code 
